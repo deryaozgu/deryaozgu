@@ -6,6 +6,6 @@
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-- 📫 How to reach me: ozgudery@gmail.com
+- 📫 How to reach me: ozguderya@gmail.com
 
 
