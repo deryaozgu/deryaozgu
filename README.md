@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/https://github.com/deryaozgu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/deryaozgu/" height="30" width="40" /></a> 
+<a href="https://github.com/https:/deryaozgu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/deryaozgu/" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/derya-ozgu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/derya-ozgu/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ozguderya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ozguderya" height="30" width="40" /></a>
 </p>
