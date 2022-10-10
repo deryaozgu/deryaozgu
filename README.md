@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deryaozgu&show_icons=true&locale=en&layout=compact" alt="deryaozgu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deryaozgu&show_icons=true&locale=en" alt="deryaozgu" width:400px;/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deryaozgu&show_icons=true&locale=en" alt="deryaozgu" width:200px;/></p>
