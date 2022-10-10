@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Derya ÖZGÜ</h1>
+<img src="[/img/firewall.gif](https://www.google.com/search?q=bilgisayar+m%C3%BChendisi+g%C4%B1f&tbm=isch&ved=2ahUKEwjDjea24dX6AhWOwgIHHcJlAm4Q2-cCegQIABAA&oq=bilgisayar+m%C3%BChendisi+g%C4%B1f&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGFD6BljoNWCzN2gAcAB4AIABqAGIAesGkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=OB1EY8ORB46Fi-gPwsuJ8AY&bih=625&biw=1366#imgrc=utfGIngp-X_8oM)" style="width:445px;height:350px;" alt="Computer Engineer">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deryaozgu&label=Profile%20views&color=0e75b6&style=flat" alt="deryaozgu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deryaozgu" alt="deryaozgu" /></a> </p>
