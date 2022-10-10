@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derya ÖZGÜ</h1>
-<img src="https://www.google.com/search?q=bilgisayar+m%C3%BChendisi+g%C4%B1f&tbm=isch&ved=2ahUKEwjDjea24dX6AhWOwgIHHcJlAm4Q2-cCegQIABAA&oq=bilgisayar+m%C3%BChendisi+g%C4%B1f&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGFD6BljoNWCzN2gAcAB4AIABqAGIAesGkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=OB1EY8ORB46Fi-gPwsuJ8AY&bih=625&biw=1366#imgrc=utfGIngp-X_8oM" style="width:445px;height:350px;" alt="Computer Engineer">
+<img src="https://camo.githubusercontent.com/94b52d172920f20fdab86c0c88ef742fc866b9789e18e58d573ed2aff4202d0c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313034373237332f73637265656e73686f74732f363531353736322f30312d70696e73736d2e676966" style="width:445px;height:350px;" alt="Computer Engineer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deryaozgu&label=Profile%20views&color=0e75b6&style=flat" alt="deryaozgu" /> </p>
 
