@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deryaozgu&label=Profile%20views&color=0e75b6&style=flat" alt="deryaozgu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deryaozgu" alt="deryaozgu" /></a> </p>
-<img src="https://camo.githubusercontent.com/94b52d172920f20fdab86c0c88ef742fc866b9789e18e58d573ed2aff4202d0c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313034373237332f73637265656e73686f74732f363531353736322f30312d70696e73736d2e676966" style="width:445px;height:350px;" alt="Computer Engineer">
+<img float="left" src="https://camo.githubusercontent.com/94b52d172920f20fdab86c0c88ef742fc866b9789e18e58d573ed2aff4202d0c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313034373237332f73637265656e73686f74732f363531353736322f30312d70696e73736d2e676966" style="width:445px;height:350px;" alt="Computer Engineer">
 - 🔭 I’m currently working on **Selenium**
 
 - 🌱 I’m currently learning **Selenium,Spring Boot,Vue.js**
